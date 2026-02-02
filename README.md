@@ -98,3 +98,16 @@ This project demonstrates key Agno patterns:
 *   **Automated DevOps**: Agents bidding on ticket resolution.
 *   **Content Factories**: SEO agents, Writers, and Editors negotiating details.
 *   **Resource Allocation**: Autonomous trading bots negotiating API usage.
+
+### Output Screenshots
+
+<img width="2432" height="1958" alt="screencapture-localhost-8501-2026-02-02-18_03_44" src="https://github.com/user-attachments/assets/e4f8cfca-eef3-4929-8af1-2fa2eb16ec38" />
+<img width="2432" height="1958" alt="screencapture-localhost-8501-2026-02-02-18_03_50" src="https://github.com/user-attachments/assets/ab5d3ac0-f382-4e8b-a184-0a538417f896" />
+<img width="2432" height="3266" alt="screencapture-localhost-8501-2026-02-02-18_03_58" src="https://github.com/user-attachments/assets/97f79633-d1c1-4d59-9f34-ef6010fbbc7f" />
+<img width="2432" height="4786" alt="screencapture-localhost-8501-2026-02-02-18_04_07" src="https://github.com/user-attachments/assets/adfb2847-c00f-4801-a9bc-6a696c238437" />
+<img width="2432" height="9700" alt="screencapture-localhost-8501-2026-02-02-18_04_22" src="https://github.com/user-attachments/assets/097e0f82-b01a-400d-bd35-d99dfce20699" />
+<img width="2432" height="16498" alt="screencapture-localhost-8501-2026-02-02-18_04_50" src="https://github.com/user-attachments/assets/e9a3c23e-28c4-4be1-9748-e0e650145556" />
+<img width="2432" height="9094" alt="screencapture-localhost-8501-2026-02-02-18_05_22" src="https://github.com/user-attachments/assets/6481f7a0-349d-4586-bf42-ba4e3350fc70" />
+<img width="2432" height="1958" alt="screencapture-localhost-8501-2026-02-02-18_06_02" src="https://github.com/user-attachments/assets/a7952b64-c4f2-40f7-af96-b5b103e4900a" />
+
+
