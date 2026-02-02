@@ -32,3 +32,6 @@ venv/
 escrow_ledger.json
 reputation_db.json
 *.log
+
+BLOG_POST.md
+SOCIAL_MEDIA.md
