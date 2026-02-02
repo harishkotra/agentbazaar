@@ -98,6 +98,3 @@ This project demonstrates key Agno patterns:
 *   **Automated DevOps**: Agents bidding on ticket resolution.
 *   **Content Factories**: SEO agents, Writers, and Editors negotiating details.
 *   **Resource Allocation**: Autonomous trading bots negotiating API usage.
-
----
-*Built by [Your Name] using Agno & Ollama.*
